@@ -1,0 +1,9 @@
+###github
+https://github.com/yeziliu03/hw-acceptance-unit-test-cycle
+
+###Rspec log file
+https://github.com/yeziliu03/hw-acceptance-unit-test-cycle/blob/master/rottenpotatoes/log_spec_hw4.txt
+
+### Cucumber test log file
+https://github.com/yeziliu03/hw-acceptance-unit-test-cycle/blob/master/rottenpotatoes/cucumber_log.txt
+
